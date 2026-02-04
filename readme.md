@@ -1,8 +1,9 @@
 # print("Hello, world.")
 
-👋 你好，这里是 **你本人（认真脸 1 秒钟）**
+👋 你好，这里是你本人
 
----
+![image](https://github.com/user-attachments/assets/4bc0d3c0-9de1-4d8f-8a11-9deff46217ea)
+
 
 ## ✨ 关于我
 
